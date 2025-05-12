@@ -1,0 +1,16 @@
+backups/
+crash-reports/
+exposures/
+logs/
+map_atlases/
+saves/
+schematics/
+screenshots/
+
+emi.json
+fabricloader.log
+options.txt
+rhino.local.propertiesž
+servers.dat
+usercache.json
+usernamecache.json

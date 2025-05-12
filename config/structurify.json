@@ -1,0 +1,36 @@
+{
+  "config_version": "1.0.11",
+  "general": {
+    "min_structure_distance_from_world_center": 0,
+    "disable_all_structures": false,
+    "enable_global_spacing_and_separation_modifier": false,
+    "global_spacing_and_separation_modifier": 1.0
+  },
+  "structures": [],
+  "structure_sets": [
+    {
+      "name": "tconstruct:end_sky_island",
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 25,
+      "separation": 18
+    },
+    {
+      "name": "tconstruct:nether_ocean_island",
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 29,
+      "separation": 14
+    },
+    {
+      "name": "tconstruct:overworld_ocean_island",
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 37,
+      "separation": 22
+    },
+    {
+      "name": "tconstruct:overworld_sky_island",
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 57,
+      "separation": 34
+    }
+  ]
+}

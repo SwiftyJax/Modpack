@@ -1,0 +1,80 @@
+{
+  "aether:skyroot_woodland": {
+    "r": 181,
+    "g": 66,
+    "b": 81,
+    "cave": false
+  },
+  "aether:skyroot_forest": {
+    "r": 23,
+    "g": 141,
+    "b": 51,
+    "cave": false
+  },
+  "terralith:cave/crystal_caves": {
+    "r": 140,
+    "g": 141,
+    "b": 205,
+    "cave": true
+  },
+  "terralith:skylands": {
+    "r": 252,
+    "g": 53,
+    "b": 126,
+    "cave": false
+  },
+  "terralith:cave/mantle_caves": {
+    "r": 150,
+    "g": 252,
+    "b": 221,
+    "cave": true
+  },
+  "terralith:cave/ice_caves": {
+    "r": 89,
+    "g": 197,
+    "b": 73,
+    "cave": true
+  },
+  "terralith:cave/desert_caves": {
+    "r": 55,
+    "g": 78,
+    "b": 10,
+    "cave": true
+  },
+  "aether:skyroot_grove": {
+    "r": 128,
+    "g": 150,
+    "b": 137,
+    "cave": false
+  },
+  "terralith:snowy_cherry_grove": {
+    "r": 223,
+    "g": 195,
+    "b": 108,
+    "cave": false
+  },
+  "terralith:cave/tuff_caves": {
+    "r": 141,
+    "g": 96,
+    "b": 251,
+    "cave": true
+  },
+  "terralith:cave/frostfire_caves": {
+    "r": 118,
+    "g": 64,
+    "b": 173,
+    "cave": true
+  },
+  "aether:skyroot_meadow": {
+    "r": 248,
+    "g": 125,
+    "b": 189,
+    "cave": false
+  },
+  "terralith:cave/deep_caves": {
+    "r": 142,
+    "g": 65,
+    "b": 124,
+    "cave": true
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "allowMovement": {
+    "com.supermartijn642.core.gui.WidgetScreen": true,
+    "com.chaosthedude.naturescompass.gui.NaturesCompassScreen": true,
+    "top.theillusivec4.curios.client.gui.CuriosScreenV2": true,
+    "net.createmod.ponder.foundation.ui.PonderUI": true,
+    "folk.sisby.antique_atlas.gui.AtlasScreen": true,
+    "mezz.jei.gui.recipes.RecipesGui": true
+  },
+  "hideBackground": {
+    "com.supermartijn642.core.gui.WidgetScreen": true,
+    "top.theillusivec4.curios.client.gui.CuriosScreenV2": true,
+    "folk.sisby.antique_atlas.gui.AtlasScreen": true,
+    "mezz.jei.gui.recipes.RecipesGui": true
+  }
+}
