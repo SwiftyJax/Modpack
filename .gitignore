@@ -10,7 +10,8 @@ screenshots/
 emi.json
 fabricloader.log
 options.txt
-rhino.local.propertiesž
+patchouli_data.json
+rhino.local.properties
 servers.dat
 usercache.json
 usernamecache.json
