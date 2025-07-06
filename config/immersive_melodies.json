@@ -3,6 +3,7 @@
   "getBufferDelay": 75,
   "maxAudibleDistance": 48,
   "instrumentVolumeFactor": 1.0,
+  "perceivedLoudnessAdjustmentFactor": 0.5,
   "mobInstrumentFactors": {
     "minecraft:zombified_piglin": 0.0,
     "minecraft:wither_skeleton": 0.0,
@@ -21,5 +22,21 @@
   "stopGameMusicForPlayers": true,
   "stopGameMusicForMobs": false,
   "uploadPermissionLevel": 0,
+  "scancodeToMidi": {
+    "44": 71,
+    "45": 72,
+    "24": 61,
+    "25": 63,
+    "27": 66,
+    "28": 68,
+    "29": 70,
+    "30": 73,
+    "38": 60,
+    "39": 62,
+    "40": 64,
+    "41": 65,
+    "42": 67,
+    "43": 69
+  },
   "version": 1
 }
