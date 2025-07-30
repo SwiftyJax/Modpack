@@ -1,15 +1,15 @@
 ## Instalacija
-
 1. Skini modrinth (https://modrinth.com/)  
-2. Napravi novi modpack  
-3. Izaberi opciju custom, loadera forge, verziju 1.20.1 te upisi ime modpacka (svejedno je)
+2. Napravi novi modpack
+![alt text](tutorial/createinstance.png)  
+4. Izaberi opciju custom, loadera forge, verziju 1.20.1 te upisi ime modpacka (svejedno je)
 ![alt text](tutorial/createmodpack.png)  
-4. Otvori folder od modpack-a  
+5. Otvori folder od modpack-a  
 ![alt text](tutorial/openfolder.png)  
-5. Skini updater (http://panel.swiftyjax.xyz)  
-6. Stavi updater.exe u modpack folder i pokreni ga  
+6. Skini updater (http://panel.swiftyjax.xyz)  
+7. Stavi updater.exe u modpack folder i pokreni ga  
 ![alt text](tutorial/folder.png)  
-7. Nakon zatvaranja terminala, modpack bi trebao biti potpuno instaliran
+8. Nakon zatvaranja terminala, modpack bi trebao biti potpuno instaliran
 
 ## Updateanje
 1. Pokreni updater.exe (ako ga nemaš, prati od koraka 5 u poglavlju "Instalacija")
