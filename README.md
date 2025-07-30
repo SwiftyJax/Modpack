@@ -1,6 +1,6 @@
 ## Instalacija
 1. Skini modrinth (https://modrinth.com/)  
-2. Napravi novi modpack
+2. Napravi novi modpack  
 ![alt text](tutorial/createinstance.png)  
 4. Izaberi opciju custom, loadera forge, verziju 1.20.1 te upisi ime modpacka (svejedno je)
 ![alt text](tutorial/createmodpack.png)  
