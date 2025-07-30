@@ -1,4 +1,3 @@
-# mc.swiftyjax.xyz modpack
 ## Instalacija
 
 1. Skini modrinth (https://modrinth.com/)  
@@ -13,9 +12,6 @@
 7. Nakon zatvaranja terminala, modpack bi trebao biti potpuno instaliran
 
 ## Updateanje
-1. Pokreni updater.exe
-2.  Nakon zatvaranja terminala, modpack bi trebao biti na najnovijoj verziji
-
-
-Ako trebas password za server, posalji poruku na discord
+1. Pokreni updater.exe (ako ga nemaš, prati od koraka 5 u poglavlju "Instalacija")
+2. Nakon zatvaranja terminala, modpack bi trebao biti na najnovijoj verziji
 
