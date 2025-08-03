@@ -12,6 +12,6 @@
 8. Nakon zatvaranja terminala, modpack bi trebao biti potpuno instaliran
 
 ## Updateanje
+- Ako se prikazuje poruka "Connection closed - mismatched mod channel list", potreban je update modpacka
 1. Pokreni updater.exe (ako ga nemaš, prati od koraka 5 u poglavlju "Instalacija")
 2. Nakon zatvaranja terminala, modpack bi trebao biti na najnovijoj verziji
-
