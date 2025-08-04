@@ -1,3 +1,4 @@
+
 ## Instalacija
 1. Skini modrinth (https://modrinth.com/)  
 2. Napravi novi modpack  
@@ -7,9 +8,11 @@
 5. Otvori folder od modpack-a  
 ![alt text](tutorial/openfolder.png)  
 6. Skini updater (http://panel.swiftyjax.xyz)  
-7. Stavi updater.exe u modpack folder i pokreni ga  
+7. Stavi updater.exe u modpack folder i pokreni ga
+   > Ako se prikaže upozorenje "Windows protected your PC", klikni na "more info", zatim na gumb "Run anyway"  
+
 ![alt text](tutorial/folder.png)  
-8. Nakon zatvaranja terminala, modpack bi trebao biti potpuno instaliran
+9. Nakon zatvaranja terminala, modpack bi trebao biti potpuno instaliran
 
 ## Updateanje
 - Ako se prikazuje poruka "Connection closed - mismatched mod channel list", potreban je modpack update
